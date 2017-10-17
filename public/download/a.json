@@ -1,0 +1,58 @@
+﻿{
+    "fids": [
+        {
+            "id": "6",
+            "fid": "17",
+            "title": "二手市场",
+            "img": "http://ss.bdimg.com/static/superman/img/logo_top_ca79a146.png"
+        },
+        {
+            "id": "5",
+            "fid": "140",
+            "title": "新货交易",
+            "img": "https://www.google.co.nz/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png"
+        },
+        {
+            "id": "4",
+            "fid": "19",
+            "title": "租房中心",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORaH2BF3ZzUy2ATj866BszLShnoe2cRbjc-WQauazk5iThjC-4w"
+        },
+        {
+            "id": "1",
+            "fid": "55",
+            "title": "求职招聘",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEXsiUsCv7q3Xjb1eMkcI2IE3LA1lK9BhSiDHHzpE38a05llmy"
+        },
+        {
+            "id": "7",
+            "fid": "18",
+            "title": "天维车市",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ94wORDGgzun8TWfwVjsB7jV-ZCv6q6Xm8z4_PPajvgb8qufYT"
+        },
+        {
+            "id": "9",
+            "fid": "16",
+            "title": "手机交易",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDkNYIzUZMDmjEhq-5NnvnBywp9IALWIj7ngn48cHLRKBfn8iW"
+        },
+        {
+            "id": "8",
+            "fid": "205",
+            "title": "大众服务",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_vCmLvk1_Gk_ZjEwJY9a9kQ7Q17vukV3u8178P7J3g_yNG8Fbg"
+        },
+        {
+            "id": "3",
+            "fid": "200",
+            "title": "房屋交易",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ26dyGPjGEf-_C_qFlZrKL8LDG7xC0yffSUY5Oxe4aXeLCR_BK"
+        },
+        {
+            "id": "2",
+            "fid": "15",
+            "title": "信息中心",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSer8acGEmZag3sOy9KbHCDJsJnla5cLiplqnEllveRZrXopbhI"
+        }
+    ]
+}
